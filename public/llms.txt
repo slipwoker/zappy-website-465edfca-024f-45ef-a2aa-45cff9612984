@@ -1,0 +1,60 @@
+# icon — Generative Engine Optimization Map
+
+> A General business.
+
+---
+
+## Pages
+
+### בית
+https://icon-465edfca.zappy5.app
+אולפן קורסים מקצועי ליצירת תוכן דיגיטלי איכותי. הפקת קורסים מקצה לקצה, פודקאסטים ודפי נחיתה שמייצרים לידים.
+
+### שירותים
+https://icon-465edfca.zappy5.app/services
+שירותי אולפן קורסים מקצועיים: הפקת קורסים דיגיטליים, אולפן פודקאסט, דפי נחיתה ממירים ועוד. פתרונות מלאים ליצירת תוכן איכותי.
+
+### אודות
+https://icon-465edfca.zappy5.app/about
+אודות icon - אולפן קורסים מוביל בישראל. צוות מקצועי עם ניסיון עשיר בהפקת תכנים דיגיטליים, קורסים ופודקאסטים איכותיים.
+
+### צור קשר
+https://icon-465edfca.zappy5.app/contact
+צור קשר עם icon - אולפן קורסים מקצועי. השאירו פרטים ונחזור אליכם בהקדם לייעוץ חינם והצעת מחיר מותאמת אישית.
+
+## Legal & Policy
+
+### Privacy Policy
+https://icon-465edfca.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://icon-465edfca.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://icon-465edfca.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About icon
+icon is a business in the General industry.
+
+## Target Audience
+- מנהלי שיווק דיגיטלי
+- מייסדי סטארטאפים
+- בעלי עסקים קטנים ובינוניים
+- משווקים פרילנסרים
+
+## Industry
+General
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://icon-465edfca.zappy5.app/sitemap.xml
+- **Robots.txt**: https://icon-465edfca.zappy5.app/robots.txt
